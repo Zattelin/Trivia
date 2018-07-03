@@ -1,0 +1,63 @@
+html { 
+    background: url("../images/where.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+body {
+  background-color: transparent;
+}
+
+.h1 {
+color: rgb(180, 180, 0);
+font-size: 50px;
+padding: 40px 0px 40px 0px;
+}
+
+.btn-info {
+    background-color: rgb(155, 133, 13);
+}
+
+audio {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 25%;
+    margin: auto;
+}
+
+.jumbotron {
+    opacity: 0.9;
+    border-top: 10px solid red;
+    border-bottom: 10px solid red;
+}
+
+.last-seconds {
+    color: red;
+}
+
+
+
+/* audio:hover, audio:focus, audio:active {
+-webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+audio {
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #006773;
+-webkit-box-shadow:  2px 2px 4px 0px #006773;
+box-shadow: 2px 2px 4px 0px #006773;
+-moz-border-radius:25px 25px 25px 25px ;
+-webkit-border-radius:25px 25px 25px 25px ;
+border-radius:25px 25px 25px 25px ;
+} */
