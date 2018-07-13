@@ -1,5 +1,5 @@
 #Trivia Game
-Triva game themed around the tv show "Where in the world is Carmen Sandiego"
+Themed around the tv show "Where in the world is Carmen Sandiego"
 
 #Getting Started
 1. Open in a web browser
